@@ -27,3 +27,5 @@ Si aplica, añade capturas de pantalla o fragmentos de código.
 
 **Información adicional**
 Cualquier dato relevante que pueda ser útil.
+
+---

@@ -18,3 +18,5 @@ Detalla cómo debería funcionar la funcionalidad o reto sugerido.
 
 **Información adicional**
 Incluye capturas, diagramas o ejemplos si es necesario.
+
+---
