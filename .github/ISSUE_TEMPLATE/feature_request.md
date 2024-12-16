@@ -3,7 +3,7 @@ name: Feature Request
 about: Sugerir una nueva funcionalidad, reto o proyecto
 title: "[FEATURE] Breve descripción de la sugerencia"
 labels: enhancement
-assignees: @CarlesRuizDeveloper-github
+assignees: CarlesRuizDeveloper-github
 
 ---
 

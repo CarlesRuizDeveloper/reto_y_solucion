@@ -3,7 +3,7 @@ name: Bug Report
 about: Reportar un error en los retos, proyectos o documentación
 title: "[BUG] Breve descripción del problema"
 labels: bug
-assignees: @CarlesRuizDeveloper-github
+assignees: CarlesRuizDeveloper-github
 
 ---
 
