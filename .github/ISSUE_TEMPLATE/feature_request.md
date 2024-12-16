@@ -1,25 +1,20 @@
 ---
-
-name: Feature Request
-about: Sugerir una nueva funcionalidad, reto o proyecto
+name: Solicitud de Funcionalidad
+about: Sugerir una nueva funcionalidad, reto o mejora para el proyecto
 title: "[FEATURE] Breve descripción de la sugerencia"
 labels: enhancement
 assignees: CarlesRuizDeveloper-github
-
-
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**¿Tu solicitud está relacionada con algún problema?**
+Describe de forma clara el problema o necesidad que te gustaría resolver. Ejemplo: "Me resulta frustrante cuando [...]".
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Describe la solución que te gustaría**
+Detalla de manera clara y concisa cómo debería funcionar la funcionalidad o mejora propuesta.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Describe alternativas que has considerado**
+Menciona otras soluciones o enfoques que has pensado como alternativa a esta funcionalidad.
 
 **Información adicional**
-Incluye capturas, diagramas o ejemplos si es necesario.
-
----
+Si es necesario, añade capturas de pantalla, diagramas, ejemplos de código u otra información relevante.
 
