@@ -1,6 +1,13 @@
-# 🚀 Retos en PHP - Aprende Programando 🔥
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCVsFnVeriVXlxKDWwkTJdvg" target="_blank">
+    <img src="assets/images/logo.png" alt="Logo de Reto y Solución" width="200">
+  </a>
+</p>
 
-¡Bienvenido a **Retos en PHP**! Este repositorio está diseñado para ayudarte a mejorar tus habilidades de programación en **PHP** a través de retos prácticos, soluciones explicadas paso a paso y guiones de video para complementar tu aprendizaje.
+# 🚀 Retos de programación - Aprende Programando 🔥
+
+¡Bienvenido a **Reto y solución**! Este repositorio está diseñado para ayudarte a mejorar tus habilidades de programación en **PHP** a través de retos prácticos, soluciones explicadas paso a paso y guiones de video para complementar tu aprendizaje.
+Seguiré ampliando con retos para **Laravel**, **JS** o **Phyton** por ejemplo.
 
 ---
 
@@ -26,7 +33,7 @@ Estos retos están diseñados para aplicarse en proyectos prácticos, como:
 ---
 
 ## 🗂️ Estructura del Repositorio
-
+- **/lenguage**
 - **/retos/**: Contiene todos los retos organizados por nivel de dificultad.
 - **/proyectos/**: Proyectos prácticos relacionados con los retos.
 
@@ -64,11 +71,13 @@ Estos retos están diseñados para aplicarse en proyectos prácticos, como:
 **Este proyecto está bajo la licencia MIT. Si usas este repositorio, menciona la fuente y compártelo con otros desarrolladores.**
 
 ## 🌐 Enlaces Útiles
-    - Documentación Oficial de PHP https://www.php.net/manual/es/index.php
-    - Guía de Composer https://www.php.net/manual/es/install.composer.intro.php
-    - Canal de YouTube: Reto y solución. https://www.youtube.com/channel/UCVsFnVeriVXlxKDWwkTJdvg
-    - ¿Tienes dudas o sugerencias?
-    - 📧 Envíanos un correo a: retoyysolucion@gmail.com
+
+- [Documentación Oficial de PHP](https://www.php.net/manual/es/index.php)
+- [Guía de Composer](https://www.php.net/manual/es/install.composer.intro.php)
+- [Canal de YouTube: Reto y Solución](https://www.youtube.com/@RetoySoluci%C3%B3n)
+
+¿Tienes dudas o sugerencias?
+- 📧 Envíanos un correo a: [retoyysolucion@gmail.com](mailto:retoyysolucion@gmail.com)
 
 
 ---
