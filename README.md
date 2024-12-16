@@ -2,7 +2,7 @@
   <img src="assets/images/logo.png" alt="Logo de Reto y Solución" width="200">
 </p>
 
-# 🚀 Retos de programación en PHP - Aprende Programando 🔥
+# 🚀 Retos de programación - Aprende Programando 🔥
 
 ¡Bienvenido a **Reto y solución**! Este repositorio está diseñado para ayudarte a mejorar tus habilidades de programación en **PHP** a través de retos prácticos, soluciones explicadas paso a paso y guiones de video para complementar tu aprendizaje.
 Seguiré ampliando con retos para **Laravel**, **JS** o **Phyton** por ejemplo.
