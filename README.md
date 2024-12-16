@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="assets/images/logo.png" alt="Logo de Reto y Solución" width="200">
+  <a href="https://www.youtube.com/channel/UCVsFnVeriVXlxKDWwkTJdvg" target="_blank">
+    <img src="assets/images/logo.png" alt="Logo de Reto y Solución" width="200">
+  </a>
 </p>
 
 # 🚀 Retos de programación - Aprende Programando 🔥
