@@ -1,6 +1,11 @@
-# 🚀 Retos en PHP - Aprende Programando 🔥
+<p align="center">
+  <img src="assets/images/logo.png" alt="Logo de Reto y Solución" width="200">
+</p>
 
-¡Bienvenido a **Retos en PHP**! Este repositorio está diseñado para ayudarte a mejorar tus habilidades de programación en **PHP** a través de retos prácticos, soluciones explicadas paso a paso y guiones de video para complementar tu aprendizaje.
+# 🚀 Retos de programación en PHP - Aprende Programando 🔥
+
+¡Bienvenido a **Reto y solución**! Este repositorio está diseñado para ayudarte a mejorar tus habilidades de programación en **PHP** a través de retos prácticos, soluciones explicadas paso a paso y guiones de video para complementar tu aprendizaje.
+Seguiré ampliando con retos para **Laravel**, **JS** o **Phyton** por ejemplo.
 
 ---
 
@@ -26,7 +31,7 @@ Estos retos están diseñados para aplicarse en proyectos prácticos, como:
 ---
 
 ## 🗂️ Estructura del Repositorio
-
+- **/lenguage**
 - **/retos/**: Contiene todos los retos organizados por nivel de dificultad.
 - **/proyectos/**: Proyectos prácticos relacionados con los retos.
 
