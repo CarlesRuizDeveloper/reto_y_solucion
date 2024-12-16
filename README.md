@@ -69,11 +69,13 @@ Estos retos están diseñados para aplicarse en proyectos prácticos, como:
 **Este proyecto está bajo la licencia MIT. Si usas este repositorio, menciona la fuente y compártelo con otros desarrolladores.**
 
 ## 🌐 Enlaces Útiles
-    - Documentación Oficial de PHP https://www.php.net/manual/es/index.php
-    - Guía de Composer https://www.php.net/manual/es/install.composer.intro.php
-    - Canal de YouTube: Reto y solución. https://www.youtube.com/channel/UCVsFnVeriVXlxKDWwkTJdvg
-    - ¿Tienes dudas o sugerencias?
-    - 📧 Envíanos un correo a: retoyysolucion@gmail.com
+
+- [Documentación Oficial de PHP](https://www.php.net/manual/es/index.php)
+- [Guía de Composer](https://www.php.net/manual/es/install.composer.intro.php)
+- [Canal de YouTube: Reto y Solución](https://www.youtube.com/channel/UCVsFnVeriVXlxKDWwkTJdvg)
+
+¿Tienes dudas o sugerencias?
+- 📧 Envíanos un correo a: [retoyysolucion@gmail.com](mailto:retoyysolucion@gmail.com)
 
 
 ---
