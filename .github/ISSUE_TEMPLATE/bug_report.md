@@ -1,31 +1,38 @@
 ---
+
 name: Bug Report
 about: Reportar un error en los retos, proyectos o documentación
 title: "[BUG] Breve descripción del problema"
 labels: bug
 assignees: CarlesRuizDeveloper-github
 
+
 ---
 
-**Descripción del problema**
-Describe claramente el problema.
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-**Pasos para reproducir el error**
-1. Ir a '...'
-2. Realizar '...'
-3. Observar el error.
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-**Resultado esperado**
-Describe lo que esperabas que ocurriera.
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
-**Capturas de pantalla o código**
-Si aplica, añade capturas de pantalla o fragmentos de código.
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
-**Entorno:**
-- Versión de PHP: [e.g., 8.1]
-- Sistema operativo: [e.g., Windows, Linux]
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
+
 
 **Información adicional**
 Cualquier dato relevante que pueda ser útil.
 
 ---
+
